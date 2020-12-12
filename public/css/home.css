@@ -1,0 +1,72 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/558/503/non_2x/vector-abstract-yellow-waves-or-curved-professional-business-design-layout-template-or-corporate-banner-web-design-background-with-halftone-effect-curve-flow-orange-motion-illustration-orange-smooth-wave-lines.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div{
+    /* background-color: white; */
+    background-image: url("/images/chats.png");
+    width: 35%;
+    padding: 10%;
+    margin-left: 5%;
+    border-radius: 4%;
+    height: 290px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: middle;
+
+}
+
+.logoHolder{
+    width: 140px;
+}
+
+
+.btn_get{
+    float: right;
+    padding: 1%;
+    border-radius: 10%;
+    text-decoration: none;
+    font-size: 40px;
+    margin-right: 5%;
+    margin-top: 15%;
+    color: orange;
+    border: 2px solid blue;
+}
+
+.div_get{
+    padding: 5%;
+    float: right;
+    margin-right: 5%;
+}
+
+#live{
+    color: orange;
+    font-size: 60px;
+    vertical-align: middle;
+}
+
+#content1{
+    margin-left: 15%;
+}
+
+/* #content2{
+    font-size: 25px;
+    font-family: serif;
+    margin-top: 20%;
+    color: orange;
+} */
+
+#hangout{
+    margin-top: 15%;
+    font-size: 250%;
+    color: darkorange;
+} 
+
+.hang{
+    background-image: url("/images/iconchat.png");
+    padding: 15%;
+    width: 400px;
+    height: 240px;
+}
